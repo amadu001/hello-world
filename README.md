@@ -1,7 +1,9 @@
 # hello-world
+
 This is just for demonstration
-This interesting session. I have learnt alot from this program.
+This interesting session. I have learnt a lot from this program.
 print("Hello World")
 
 for a in list:
-  print(a)
+print(a)
+
