@@ -8,4 +8,9 @@ I mean w3s. It is very interesting and fun to learn in w3schools.
 
 **Hello**
 It has been a while `python`
+head = range(1,4)
+for i in head:
+  print(i)
+else:
+  Null
 
