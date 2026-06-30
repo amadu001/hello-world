@@ -15,4 +15,6 @@ print(a)
 I'm working to master Git and GitHub.
 It takes a lot of energy and patience.
 
+Let us be honest. What is the most important subject in the current presence of AI? 
+A lot of us are worried.
 
